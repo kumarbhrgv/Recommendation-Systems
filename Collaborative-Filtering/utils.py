@@ -3,4 +3,4 @@ def readfile(inputpath):
         lines = []
         for line in ins:
             lines.append(line)
-    return line
+    return lines
